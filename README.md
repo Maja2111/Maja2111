@@ -1,8 +1,13 @@
-### Hi there 👋
+Hallo ich bin Sabine,
+
+und auf dem Weg Webdeveloperin zu werden.
+
+Ich freu mich darauf euch kennenzulernen.
+
+https://www.linkedin.com/in/sabine-weber-76004722b/
+
 
 <!--
-**Maja2111/Maja2111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
