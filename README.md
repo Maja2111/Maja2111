@@ -21,11 +21,17 @@ hier findet ihr alle wichtigen Informationen auf einen Click 👆🏻
 
 ### Stylingprojekt 👇🏻
 
+Musicplayer
+
 ![Bildschirmfoto vom 2024-08-27 12-20-33](https://github.com/user-attachments/assets/2717f6b1-3621-4540-953c-943a7de4007f)
 
 
 https://github.com/Maja2111/styling_musicplayer.git
 
+Grid und Flex sowie Styling von einer Bildergalerie
+
+
+![download](https://github.com/user-attachments/assets/aa290da0-4d59-4cbd-af96-ea2d65fa8991)
 
 
 
