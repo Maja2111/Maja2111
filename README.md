@@ -19,5 +19,10 @@ Ich freu mich darauf euch kennenzulernen.
 
 hier findet ihr alle wichtigen Informatione auf einen Click 👆🏻
 
+ein kleiner Einblick in ein Stylingprojekt 👇🏻
 
 ![Bildschirmfoto vom 2024-08-27 11-23-37](https://github.com/user-attachments/assets/d711311f-bb5f-4290-bebe-68148419a8dc)
+
+git@github.com:Maja2111/styling_musicplayer.git
+
+
