@@ -1,4 +1,4 @@
-Hallo ich bin Sabine,
+### Hallo ich bin Sabine,
 
 und auf dem Weg Software - und Webdeveloperin (MERN-Stack) beim DCI zu werden.
 
@@ -19,14 +19,20 @@ Ich freu mich darauf euch kennenzulernen.
 
 hier findet ihr alle wichtigen Informationen auf einen Click 👆🏻
 
-ein kleiner Einblick in einen paar Stylingprojekte 👇🏻
+### Stylingprojekt 👇🏻
 
 ![Bildschirmfoto vom 2024-08-27 12-20-33](https://github.com/user-attachments/assets/2717f6b1-3621-4540-953c-943a7de4007f)
 
 
 https://github.com/Maja2111/styling_musicplayer.git
 
-Beispiel für ein js Projekt
+
+
+
+### Meine erste Webseite aus dem Orientierungskurs zum Thema "Periodensystem"
+https://github.com/Maja2111/PSE.git
+
+### JS Projekt
 eine Bibilothek die Bücher nach Autor/innen,Titeln, ISBN-Nummern, Verlagen und Preisen ausgibt.
 
 ![Bildschirmfoto vom 2024-08-27 12-25-44](https://github.com/user-attachments/assets/eda58ce7-dfd0-430b-a6ec-c29a143f2e94)
