@@ -17,7 +17,7 @@ Ich freu mich darauf euch kennenzulernen.
 ## Mein Portfolio
 ![Bildschirmfoto vom 2024-08-27 11-29-09](https://github.com/user-attachments/assets/fbd79d8b-d7e3-4e94-a418-fccb0c747d2f)git@github.com:Maja2111/Portfolio.git
 
-hier findet ihr alle wichtigen Informatione auf einen Click 👆🏻
+hier findet ihr alle wichtigen Informationen auf einen Click 👆🏻
 
 ein kleiner Einblick in ein Stylingprojekt 👇🏻
 
