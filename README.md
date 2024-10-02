@@ -29,6 +29,7 @@ Musicplayer
 https://github.com/Maja2111/styling_musicplayer.git
 
 Grid und Flex sowie Styling von einer Bildergalerie
+Update auf React am 02.10.2024 in einem neuen Repo
 
 
 ![download](https://github.com/user-attachments/assets/aa290da0-4d59-4cbd-af96-ea2d65fa8991)
