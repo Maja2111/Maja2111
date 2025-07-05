@@ -1,8 +1,10 @@
 ### Hallo ich bin Sabine,
 
-und auf dem Weg Software - und Webdeveloperin (MERN-Stack) beim DCI zu werden.
+und Frischgebackene Fullstack Enwicklerin für MERN-Stack
 
-Ich freu mich darauf euch kennenzulernen.
+Ich freu mich darauf euch kennenzulernen! 
+
+
 
 ## Meine Kontaktdaten
 
@@ -12,7 +14,9 @@ Ich freu mich darauf euch kennenzulernen.
 
 ## Meine Skills
 
-![My Skills](https://skillicons.dev/icons?i=md,html,css,sass,bootstrap,vscode,nodejs,js,github,windows,apple,linux,ubuntu)
+![My Skills](https://skillicons.dev/icons?i=md,html,css,sass,express,bootstrap,vscode,nodejs,js,github,windows,apple,linux,ubuntu,md,mongodb,npm,postman,powershell,react)
+
+![My new Skills](https://skillicons.dev/icons?i=md,angular,azure,dotnet,figma,git,jest,ts)
 
 ## Mein Portfolio
 ![Bildschirmfoto vom 2024-08-27 11-29-09](https://github.com/user-attachments/assets/fbd79d8b-d7e3-4e94-a418-fccb0c747d2f) https://github.com/Maja2111/Portfolio.git
